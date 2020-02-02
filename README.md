@@ -1,4 +1,4 @@
-## Vancoymcyin initiation tool
+## Clinical resource tool
 
 The project aims to provide a search engine for professionals to look for resources related to their role. 
 The current method of finding resources and guidlines involves clicking through folders to find files.
